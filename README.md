@@ -1,0 +1,1 @@
+# lafuraha.github.io
