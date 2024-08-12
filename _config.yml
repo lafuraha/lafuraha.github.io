@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: lafuraha
+description: 仰观宇宙之大，俯察品类之盛，信可乐也
+url: https://lafuraha.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -35,10 +35,10 @@ logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://ebird.org/profile/NDU2NTIxOA/world
+    - https://github.com/lafuraha
 google_site_verification: xxxxx
-lang: en
+lang: zh-cn
 
 sass:
   sass_dir: _sass
@@ -53,7 +53,7 @@ sass:
 # disqus: xxxxxx
 
 # Specify the author for blog posts
-author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+# author:
+#   name: Songzi Vong
+#   url: https://github.com/vszhub/
+#   email: vszhub@gmail.com
