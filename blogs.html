@@ -1,3 +1,17 @@
 ---
 layout: home
+paginate: 5
+paginate_path: "/blogs/page:num"
 ---
+
+{% if jekyll.environment == "production" %}
+  {% assign posts_list = site.posts | sort: 'date' | reverse %}
+  {% assign paginator = posts_list | paginate: page, "/blogs/" %}
+{% endif %}
+
+{% for post in paginator.posts %}
+  <!-- Post content here -->
+{% endfor %}
+
+<!-- Pagination links -->
+{% include pagination.html %}
