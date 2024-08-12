@@ -5,7 +5,7 @@ url: https://lafuraha.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /MyBG.JPG
+cover_image: /MyBG.jpeg
 
 # Gems
 plugins:
