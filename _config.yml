@@ -4,7 +4,6 @@ description: 仰观宇宙之大，俯察品类之盛，信可乐也
 url: https://lafuraha.github.io
 avatar: /Myavatar.jpg
 paginate: 5
-paginate_path: /blogs/page:num
 permalink: pretty
 cover_image: /MyBG.jpeg
 
